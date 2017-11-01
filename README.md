@@ -18,4 +18,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* @jorinvo inspired this idea, and most of the code is taken from their original repo - see [here](for the original blog post)!
+* @jorinvo inspired this idea, and most of the code is taken from their original repo - see [here](https://dev.to/jorinvo/automate-your-mac-setup-and-keep-it-up-to-date-17l) for the original blog post!
