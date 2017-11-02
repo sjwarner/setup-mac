@@ -8,6 +8,7 @@ tmux
 tor
 trash
 vim
+Caskroom/cask/alfred
 Caskroom/cask/brave
 Caskroom/cask/caffeine
 Caskroom/cask/google-chrome
