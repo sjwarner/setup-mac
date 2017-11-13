@@ -1,4 +1,5 @@
 git
+node
 openssl
 perl
 python
