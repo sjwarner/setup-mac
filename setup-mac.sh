@@ -54,4 +54,6 @@ comm -13 \
 
 brew cleanup
 
+npm install -g awm
+
 printf "\n\n\nAll good. Enjoy your day human."
