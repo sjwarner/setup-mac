@@ -5,6 +5,7 @@ perl
 python
 ruby
 the_silver_searcher
+tldr
 tmux
 tor
 trash
