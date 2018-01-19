@@ -19,6 +19,8 @@ Caskroom/cask/jetbrains-toolbox
 Caskroom/cask/kodi
 Caskroom/cask/openemu
 Caskroom/cask/slack
+Caskroom/cask/spectacle
 Caskroom/cask/spotify
 Caskroom/cask/steam
 Caskroom/cask/vlc
+Caskroom/fonts/font-fira-code
